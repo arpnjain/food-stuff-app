@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- set title of activity-->
+    <string name="string_signup">Sign Up</string>
+    <string name="string_Login">Log In</string>
+    <string name="string_rest_password">Reset Password</string>
+    <string name="profile_activity">Basic Information</string>
+
+    <!-- slider -->
+
+    <string name="app_name">FoodStuff</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Good Nutrition!</string>
+    <string name="slide_1_desc">Leads to more stable moods, increases in ability to pay attention, and improve memory!</string>
+
+    <string name="slide_2_title">Fruits</string>
+    <string name="slide_2_desc">Eat plenty of fruits of all colors</string>
+
+    <string name="slide_3_title">Vegetables</string>
+    <string name="slide_3_desc">The more veggies and the greater the veriety - the better. Potatoes and French fries do not count</string>
+
+    <string name="slide_4_title">Healthy Oils</string>
+    <string name="slide_4_desc">Use healthy oils(like olive and canola oil) for cooking, on salad, and at the table. Limit butter. Avoids trans fat</string>
+
+
+    <!-- login and signup-->
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_email">This email is invalid</string>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password requires minimum 8 characters with a capital letter, a special character and a numeral!</string>
+    <string name="hint_email">Enter Email Address</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+    <!--Navigation-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="user_title">User Name</string>
+    <string name="user_email_id_subtitle">xyz@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="profile">Profile</string>
+    <string name="foods">Foods</string>
+    <string name="diet_plan">Diet Plan</string>
+    <string name="my_progress">My Progress</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+
+    <string name="settings">Settings</string>
+    <string name="help">Help &amp; Feedback</string>
+    <string name="log_out">LogOut</string>
+    <string name="email_id">Email</string>
+    <string name="password">Password</string>
+
+
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_foods">Foods</string>
+    <string name="title_diet_plan">Diet Plan</string>
+    <string name="title_my_progress">My Progress</string>
+    <string name="send">Send</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="your_name">Your Name</string>
+
+
+    <string name="phone_number">Phone Number</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="bmi">BMI</string>
+    <string name="city">City</string>
+    <string name="done">DONE</string>
+    <string name="dob">Age</string>
+    <string name="gender">Gender</string>
+    <string name="weight_in_kg">Weight (In Kg)</string>
+    <string name="height_in_cm">Height (In cm)</string>
+    <string name="select_your_gender">Select Your Gender</string>
+    <string name="female">female</string>
+    <string name="custom">Custom</string>
+    <string name="male">male</string>
+    <string name="seacrh">seacrh</string>
+    <string name="main_acticity">FOOD STUFF</string>
+    <string name="home">Home</string>
+    <string name="discover">Discover</string>
+    <string name="foodstuff_blog">Foodstuff Blog</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_voice">Voice</string>
+    <string name="shadow_description">Drop Shadow</string>
+    <string name="load_more">Load More</string>
+    <string name="search">Search</string>
+
+    <string name="restapikey">d28fdeef14734b8c9ff4163e7b5d86b6</string>
+    <string name="restapisecret">31c5f079b4a94a7d9a4317769ae110ed</string>
+
+    <string name="heighterror">Height must be between 94-272</string>
+    <string name="weighterror">Weight must be between 30-450</string>
+    <string name="ageerror">Age must be between 10-110</string>
+    <string name="nameerror">Enter a valid name</string>
+    <string name="phonerror">Enter a valid mobile</string>
+    <string name="kcal">Kcal</string>
+    <string name="carbs">Carbs</string>
+    <string name="fat">Fat</string>
+    <string name="protein">Protein</string>
+    <string name="kcaltitle">: Kcal</string>
+    <string name="carbstitle">: Carbs</string>
+    <string name="fattite">: Fat</string>
+    <string name="proteintitle">: Protein</string>
+    <string name="classic">CLASSIC</string>
+    <string name="caltarget">0 KCAL PER DAY </string>
+    <string name="caleaten">0 KCAL EATEN</string>
+    <string name="calburend">0 / 0 KCAL BURNED</string>
+    <string name="gained">Gained so far:</string>
+    <string name="toGo">Still to go:</string>
+    <string name="kcal_perday">KCAL</string>
+    <string name="left">LEFT</string>
+    <string name="_1863">1863</string>
+    <string name="_173">173</string>
+    <string name="_223g">223G</string>
+    <string name="_116g">116G</string>
+    <string name="perday_carbs">CARBS</string>
+    <string name="_46g">46G</string>
+    <string name="_62g">62G</string>
+    <string name="perday_protein">PROTEIN</string>
+    <string name="_33g">33G</string>
+    <string name="_93g">93G</string>
+    <string name="perday_fat">FAT</string>
+    <string name="per_protein">PROTEIN</string>
+    <string name="per_fat">FAt</string>
+
+    <string name="_goal_intake">Goal Intake</string>
+    <string name="_carbs">% CARBS</string>
+    <string name="_protein">% PROTEIN</string>
+    <string name="_fat">% FAT</string>
+
+    <string name="calories_remaining">Remaining Calories</string>
+    <string name="calories_consumed">Consumed Calories</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="snacks">Snacks/Other</string>
+    <string name="set_goal">Set Goal</string>
+    <string name="_65_kgs">65.0</string>
+    <string name="_70_kgs">70.0</string>
+    <string name="your_bmi">Your BMI</string>
+    <string name="idea_weight_range">Ideal Weight range</string>
+    <string name="set_current_weight">Set Current Weight</string>
+    <string name="set_target_weight">Set Target Weight</string>
+    <string name="how_quickly_do_you_want_to_lose_20_5_kg">How Quickly do you want to lose 20.5 kg?</string>
+    <string name="you_will_reach_your_goal_before_4_months_7_days">You will reach your goal before 4 months 7 days</string>
+    <string name="i_commit_to_my_goal">I commit to my goal</string>
+    <string name="reset_my_goal">Reset My Goal</string>
+    <string name="may_09_2019">May 09, 2019</string>
+    <string name="_20_may_2019">20-May-2019</string>
+    <string name="_0_of_389_kcal">0 of 389 Kcal</string>
+    <string name="_0_of_145_kcal">0 of 145 Kcal</string>
+
+    <string name="select_date">Select Date</string>
+    <string name="weight_goal_details">Weight Goal Details</string>
+    <string name="start_weight">Start Weight</string>
+    <string name="target_weight">Target Weight</string>
+
+    <string-array name="activity">
+        <item>Basal Metabolic Rate</item>
+        <item>Little or no exercise</item>
+        <item>Little exercise/ Sports 1–3 days a week</item>
+        <item>Moderate exercise/ Sports 3–5 days a week</item>
+        <item>Hard exercise/ Sports 6–7 days a week</item>
+
+    </string-array>
+
+    <string-array name="weightCalculator">
+        <item>Easy 0.25 Kg per week</item>
+        <item>Medium 0.50 Kg per week</item>
+
+    </string-array>
+
+
+
+</resources>

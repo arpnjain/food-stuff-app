@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "204915004059",
+    "firebase_url": "https://foodstuff-17500.firebaseio.com",
+    "project_id": "foodstuff-17500",
+    "storage_bucket": "foodstuff-17500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204915004059:android:9e220aff72181329",
+        "android_client_info": {
+          "package_name": "com.foodstuff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204915004059-t58rpqns1d407m2j3m7hqcqe98uggfdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3o3i6Bu_tEV9Pr3SoeNyPd_n0N8uf2V0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

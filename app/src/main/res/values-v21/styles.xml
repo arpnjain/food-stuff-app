@@ -1,0 +1,30 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#4ccfe0</item>
+        <item name="colorPrimaryDark">#009eae</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="MyCustomTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">#000</item>
+        <item name="android:textColorSecondary">#000</item>
+        <item name="android:colorPrimary">#4ccfe0</item>
+        <item name="android:colorPrimaryDark">#009eae</item>
+    </style>
+
+
+    <style name="ToolbarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColorPrimary">#000</item>
+        <item name="android:textColorSecondary">#000</item>
+        <item name="colorPrimary">#aed581</item>
+
+    </style>
+    <style name="AppThemeSerach.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#4ccfe0</item>
+        <item name="colorPrimaryDark">#009eae</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+</resources>
